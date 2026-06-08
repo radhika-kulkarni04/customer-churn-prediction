@@ -6,8 +6,8 @@ import os
 # =======================================
 # Paths
 # =======================================
-MODEL_PATH = "models/churn_model.pkl"
-THRESHOLD_PATH = "models/chosen_threshold.pkl"
+MODEL_PATH = "churn_model.pkl"
+THRESHOLD_PATH = "chosen_threshold.pkl"
 
 # =======================================
 # Load model & threshold
