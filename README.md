@@ -46,7 +46,6 @@ The project covers the complete ML lifecycle:
 ### 🔗 Deployed App
 
 👉 https://ai-powered-customer-retention-system-xkt3.onrender.com
-
 ---
 
 # 🧠 Machine Learning Pipeline
